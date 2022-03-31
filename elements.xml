@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Title="AppHeader" Location="ClientSideExtension.ApplicationCustomizer" ClientSideComponentId="b92bd9ff-c0b2-4bf4-aabb-204072ed60dd" ClientSideComponentProperties="" HostProperties="{&quot;preAllocatedApplicationCustomizerTopHeight&quot;:&quot;40&quot;}">
+  </CustomAction>
+</Elements>
